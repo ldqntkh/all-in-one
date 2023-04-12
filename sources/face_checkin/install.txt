@@ -1,0 +1,6 @@
+opencv-python
+screeninfo
+Pillow
+opencv-python-headless
+opencv-contrib-python-headless
+opencv-contrib-python 
